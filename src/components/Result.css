@@ -1,0 +1,29 @@
+.result {
+    color: #fff;
+    text-align: center;
+}
+
+.result h1 {
+    color: #ffeb00;
+    margin-bottom: 10px;
+}
+
+.result h4 {
+    margin-bottom: 20px;
+}
+
+.result img {
+    width: 150px;
+    height: auto;
+    border-radius: 100%;
+}
+
+.result #username {
+    font-size: 1.2rem;
+    font-style: italic;
+}
+
+.result #location {
+    font-size: 0.8rem;
+    color: #666;
+}

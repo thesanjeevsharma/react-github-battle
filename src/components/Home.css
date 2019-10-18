@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.half-screen {
+    width: 50%;
+    height: 100vh;
+    background: #222;
+    padding: 100px 50px;
+}
+
+.main-error {
+    padding: 10px;
+    background: crimson;
+    color: #fff;
+}
